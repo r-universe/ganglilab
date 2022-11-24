@@ -1,5 +1,9 @@
 [
   {
+    "package": "genekitr",
+    "oncran": true
+  },
+  {
     "package": "geneset",
     "oncran": true
   }
