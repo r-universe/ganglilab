@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "genekitr"]
 	path = genekitr
 	url = https://github.com/ganglilab/genekitr
-	shallow = true
-	registered = true
 [submodule "geneset"]
 	path = geneset
 	url = https://github.com/ganglilab/geneset
-	shallow = true
-	registered = true
